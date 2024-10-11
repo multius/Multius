@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Multius' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Multius&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](http://multius.me)
 <!--
 **multius/Multius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
